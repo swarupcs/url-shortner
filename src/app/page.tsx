@@ -1,5 +1,5 @@
 
-
+console.log("env",process.env.MONGODB_URI);
 export default function Home() {
   return (
     <div >
